@@ -1,6 +1,6 @@
-#Mobile Web Application
+# Mobile Web Application
 ---
-##Project Part 1 
+## Project Part 1 
 
 1. This project harnesses the use of responsive viewport for different display sizes.
 2. The content and images are responsive.
