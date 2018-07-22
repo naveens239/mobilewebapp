@@ -15,6 +15,7 @@
  *
  */
 
+
 (function() {
   var nativeAddAll = Cache.prototype.addAll;
   var userAgent = navigator.userAgent.match(/(Firefox|Chrome)\/(\d+\.)/);
